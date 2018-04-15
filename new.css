@@ -1,0 +1,36 @@
+h1 {
+	text-align: center;
+	color: purple
+}
+h2 {
+	color: white
+}
+h3 {
+	text-align: center;
+	color: black
+
+}
+h2 {
+	text-align: center;
+}
+div {
+	text-align: center;
+	color: red
+		
+}
+body {
+	background-color: grey
+
+}
+section {
+	background-image: url(par.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 1200px 800px
+}
+h4 {
+	text-align: center;
+}
+
+
+
